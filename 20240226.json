@@ -1,0 +1,17 @@
+[
+  {
+    "title": "サンプルタイトル1",
+    "command": "コマンド1",
+    "thumbnail_url": "https://example.com/thumbnail1.jpg"
+  },
+  {
+    "title": "サンプルタイトル2",
+    "command": "コマンド2",
+    "thumbnail_url": "https://example.com/thumbnail2.jpg"
+  },
+  {
+    "title": "サンプルタイトル3",
+    "command": "コマンド3",
+    "thumbnail_url": "https://example.com/thumbnail3.jpg"
+  }
+]
