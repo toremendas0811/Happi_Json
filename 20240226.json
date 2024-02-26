@@ -3,18 +3,54 @@
     "id": 1,
     "title": "SDチェック",
     "command": "SendA()",
-    "thumbnail_url": "https://toremendas0811.github.io/Happi_Json/%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB%E7%94%BB%E5%83%8F/thumbnail_006.png"
+    "thumbnail_url": "https://toremendas0811.github.io/Happi_Json/%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB%E7%94%BB%E5%83%8F/thumbnail_001.jpg"
   },
   {
     "id": 2,
     "title": "バッテリーチェック",
     "command": "SendH()",
-    "thumbnail_url": "https://toremendas0811.github.io/Happi_Json/%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB%E7%94%BB%E5%83%8F/thumbnail_007.png"
+    "thumbnail_url": "https://toremendas0811.github.io/Happi_Json/%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB%E7%94%BB%E5%83%8F/thumbnail_002.jpg"
   },
   {
     "id": 3,
     "title": "曲番号",
     "command": "SendZ()",
-    "thumbnail_url": "https://toremendas0811.github.io/Happi_Json/%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB%E7%94%BB%E5%83%8F/thumbnail_008.jpg"
+    "thumbnail_url": "https://toremendas0811.github.io/Happi_Json/%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB%E7%94%BB%E5%83%8F/thumbnail_003.jpg"
+  },
+  {
+      "id": 4,
+      "title": "SDチェック",
+      "command": "SendA()",
+      "thumbnail_url": "https://toremendas0811.github.io/Happi_Json/%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB%E7%94%BB%E5%83%8F/thumbnail_004.jpg"
+  },
+  {
+      "id": 5,
+      "title": "バッテリーチェック",
+      "command": "SendH()",
+      "thumbnail_url": "https://toremendas0811.github.io/Happi_Json/%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB%E7%94%BB%E5%83%8F/thumbnail_005.png"
+  },
+  {
+      "id": 6,
+      "title": "曲番号",
+      "command": "SendZ()",
+      "thumbnail_url": "https://toremendas0811.github.io/Happi_Json/%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB%E7%94%BB%E5%83%8F/thumbnail_006.jpg"
+  },
+  {
+      "id": 7,
+      "title": "SDチェック",
+      "command": "SendA()",
+      "thumbnail_url": "https://toremendas0811.github.io/Happi_Json/%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB%E7%94%BB%E5%83%8F/thumbnail_007.png"
+  },
+  {
+      "id": 8,
+      "title": "バッテリーチェック",
+      "command": "SendH()",
+      "thumbnail_url": "https://toremendas0811.github.io/Happi_Json/%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB%E7%94%BB%E5%83%8F/thumbnail_008.jpg"
+  },
+  {
+      "id": 9,
+      "title": "曲番号",
+      "command": "SendZ()",
+      "thumbnail_url": "https://toremendas0811.github.io/Happi_Json/%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB%E7%94%BB%E5%83%8F/thumbnail_009.jpg"
   }
 ]
