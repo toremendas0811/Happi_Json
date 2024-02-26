@@ -1,18 +1,18 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "title": "サンプルタイトル1",
     "command": "コマンド1",
     "thumbnail_url": "https://example.com/thumbnail1.jpg"
   },
   {
-    "id": "2",
+    "id": 2,
     "title": "サンプルタイトル2",
     "command": "コマンド2",
     "thumbnail_url": "https://example.com/thumbnail2.jpg"
   },
   {
-    "id": "3",
+    "id": 3,
     "title": "サンプルタイトル3",
     "command": "コマンド3",
     "thumbnail_url": "https://example.com/thumbnail3.jpg"
