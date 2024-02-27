@@ -3,14 +3,14 @@
     "id": 1,
     "title": "MPLUSPLUS",
     "time": "0",
-    "soundnum": "0",
+    "soundnum": 0,
     "thumbnail_url": "https://toremendas0811.github.io/Happi_Json/%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB%E7%94%BB%E5%83%8F/MPLUSPLUS/mplpl.png"
   },
   {
     "id": 2,
     "title": "DANCERS",
     "time": "30000",
-    "soundnum": "0",
+    "soundnum": 0,
     "thumbnail_url": "https://toremendas0811.github.io/Happi_Json/%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB%E7%94%BB%E5%83%8F/MPLUSPLUS/dplpl.png"
   }
 ]
